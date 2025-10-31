@@ -24,7 +24,7 @@ A beautiful, colorful terminal file manager inspired by [yazi](https://github.co
 ### From Source
 
 ```bash
-git clone https://github.com/guicybercode/hitotui.git
+git clone https://github.com/guicybercode/hitotui
 cd hitotui
 go build -o hitotui
 ./hitotui
