@@ -4,8 +4,8 @@
 
 A beautiful, colorful terminal file manager inspired by [yazi](https://github.com/sxyazi/yazi), built with Go and [Bubbletea](https://github.com/charmbracelet/bubbletea).
 
-<img src="hito1.png" width="500"/>
-<img src="hito2.png" width="500"/>
+<img src="hito1.png" width="400"/>
+<img src="hito2.png" width="400"/>
 
 
 </div>
